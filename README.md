@@ -6,7 +6,7 @@ Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/hr-analysis-44)
 
-Link to LinkedIn post[Project Key learning]()
+Link to LinkedIn post[Project Key learning](https://www.linkedin.com/feed/update/urn:li:ugcPost:7181701088616611842/)
 
 ## Overview
 
